@@ -1,3 +1,4 @@
+--Table is created by Ranjith.
 CREATE TABLE TBLLOG
 (
 LOGID INT PRIMARY KEY NOT NULL IDENTITY(1,1),
